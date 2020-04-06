@@ -1,14 +1,22 @@
-function Fibonaccy(y) {
-    let fibonaccy = [0,1,1];
+function isFibonaccy(x,num) {
+    let fibonaccy = [];
+    let flag = false;
     let a = 0;
     let b = 1 ;
     let c = 1;
-    for (let i = 0; i < y ; i++) {
-         a = b  ;
-         a = c ;
-         c = a + b ;
-         fibonaccy.push(c)
+    while (num >= 0) {
+         c = a  ;
+         a = a + b;
+         b = c ;
+         fibonaccy.push(b);
+         num --;
     }
-    return fibonaccy;
+    for (let i = 0; i < fibonaccy.length ; i++) {
+        if ( fibonaccy[i] === x ){
+            flag = true;
+        }
+    }
+    return flag;
 }
-fibo
+console.log(isFibonaccy(7,6));
+
