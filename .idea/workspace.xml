@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="73c092b6-31bb-4b28-a723-439f0483abb6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/isFibonaccy.js" beforeDir="false" afterPath="$PROJECT_DIR$/isFibonaccy.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/findMax.js" beforeDir="false" afterPath="$PROJECT_DIR$/findMax.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ketthucmodule1.html" beforeDir="false" afterPath="$PROJECT_DIR$/ketthucmodule1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/removeFromArray.js" beforeDir="false" afterPath="$PROJECT_DIR$/removeFromArray.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +53,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1586159112316</updated>
-      <workItem from="1586159113817" duration="3211000" />
+      <workItem from="1586159113817" duration="3472000" />
     </task>
     <servers />
   </component>

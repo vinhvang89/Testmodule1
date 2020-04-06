@@ -7,3 +7,5 @@ function findMax(arr) {
     }
     return max;
 }
+let array = [4,8,1,2,6];
+console.log(findMax(array));
